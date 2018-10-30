@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/microservice-discovery-eureka.iml" filepath="$PROJECT_DIR$/microservice-discovery-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka_forTest.iml" filepath="$PROJECT_DIR$/eureka_forTest.iml" />
     </modules>
   </component>
 </project>
